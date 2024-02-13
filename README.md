@@ -1,9 +1,3 @@
-# HR-Analytics-Atliq_masked
-This is  one of a Codebasics Resume Project Report on HR Analytics for AtliQ Hardware
-
-## Show my dashboard below on my Portfolio
-https://www.novypro.com/project/hr-analytics-atliqmasked
-
 Project Overview:
 
 In this  project, So we have 3 month of data of the year 2022 that is  in the form of Excel sheets having attendance key and employee attendance.
@@ -24,8 +18,6 @@ Key Insights:
 3. SL % is a little bit increasing.
 4. Most of the employees prefer WFH on Friday.
 5. Most of the employees are present on Monday.
-
-   ![HR_analysis](https://github.com/pravalenka/HR-Analytics-Atliq_masked/assets/120097217/4dd994a2-40bf-4611-992b-351f678077f3)
 
 ## DAX function have used in this analysis-
    
