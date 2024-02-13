@@ -1,5 +1,8 @@
 Project Overview:
 
+Show my dashboard below on my Portfolio
+[https://www.novypro.com/project/hr-analytics-atliqmasked](https://www.novypro.com/project/hr-analytics-160)
+
 In this  project, So we have 3 month of data of the year 2022 that is  in the form of Excel sheets having attendance key and employee attendance.
 So,  HR manager  wants some insights from this data, which is listed below:
 
